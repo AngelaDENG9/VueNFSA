@@ -38,10 +38,10 @@ export default {
     <button @click="fetchData">Click Me!</button>
 
       <ul class="list-v">
-       <li v-for="result in theData.results" :key="result.title"> 
+       <!--<li v-for="result in theData.results" :key="result.title"> 
         {{ result.title }} 
         {{ result.name }} 
-      </li> 
+      </li> -->
     </ul> 
   </div> 
 </template>
