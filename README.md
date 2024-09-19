@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # VueNFSA
+=======
+# npm create vue@latest
+>>>>>>> 1b841f67b4622d2861e6028d5d48f4438f0b666f
 
 This template should help get you started developing with Vue 3 in Vite.
 

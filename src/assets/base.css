@@ -59,7 +59,11 @@
 }
 
 body {
+<<<<<<< HEAD
   min-height: auto;
+=======
+  min-height: 100vh;
+>>>>>>> 1b841f67b4622d2861e6028d5d48f4438f0b666f
   color: var(--color-text);
   background: var(--color-background);
   transition:

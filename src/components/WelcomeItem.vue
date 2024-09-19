@@ -44,7 +44,11 @@ h3 {
 @media (min-width: 1024px) {
   .item {
     margin-top: 0;
+<<<<<<< HEAD
     /* padding: 0.4rem 0 1rem calc(var(--section-gap) / 2); */
+=======
+    padding: 0.4rem 0 1rem calc(var(--section-gap) / 2);
+>>>>>>> 1b841f67b4622d2861e6028d5d48f4438f0b666f
   }
 
   i {

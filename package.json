@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "vuenfsa",
+=======
+  "name": "npm-create-vue-latest",
+>>>>>>> 1b841f67b4622d2861e6028d5d48f4438f0b666f
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -14,7 +18,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+<<<<<<< HEAD
     "element-plus": "^2.8.3",
+=======
+>>>>>>> 1b841f67b4622d2861e6028d5d48f4438f0b666f
     "pinia": "^2.1.7",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
@@ -37,6 +44,10 @@
     "prettier": "^3.2.5",
     "typescript": "~5.4.0",
     "vite": "^5.3.1",
+<<<<<<< HEAD
+=======
+    "vite-plugin-vue-devtools": "^7.3.1",
+>>>>>>> 1b841f67b4622d2861e6028d5d48f4438f0b666f
     "vitest": "^1.6.0",
     "vue-tsc": "^2.0.21"
   }
